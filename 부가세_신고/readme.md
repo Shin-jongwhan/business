@@ -19,3 +19,7 @@
 
 ### 부가세 신고를 할 때 이렇게 직접 입력해서 등록해준다.
 #### ![image](https://github.com/Shin-jongwhan/business/assets/62974484/9b44a896-ad9f-48b2-9467-6aef7d4eb239)
+### 이렇게 부가세 매입새액 신고에 합산된다.
+#### ![image](https://github.com/Shin-jongwhan/business/assets/62974484/96f69eee-46c7-4d2d-98ba-24b681903dea)
+### <br/>
+
