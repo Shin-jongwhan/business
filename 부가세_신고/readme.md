@@ -23,3 +23,8 @@
 #### ![image](https://github.com/Shin-jongwhan/business/assets/62974484/96f69eee-46c7-4d2d-98ba-24b681903dea)
 ### <br/>
 
+### 현금영수증을 받았다고 해도 자동으로 등록되지는 않는다. 그럴 때는 홈택스에서 현금영수증 신용카드를 등록하면 자동으로 관리되게 만들 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/business/assets/62974484/a305488c-9d2e-4734-9c43-8bcf81657bc5)
+### 아래 버튼을 누르고 등록한다. 
+### 조회는 현금영수증 발급한 후 다음 날부터 조회가 가능하다고 한다.
+#### ![image](https://github.com/Shin-jongwhan/business/assets/62974484/580738d6-91ed-475d-ba33-ecca5e4d9514)
